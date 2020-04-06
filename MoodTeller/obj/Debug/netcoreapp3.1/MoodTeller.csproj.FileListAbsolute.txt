@@ -1,0 +1,26 @@
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.exe
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.deps.json
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.runtimeconfig.json
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.runtimeconfig.dev.json
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.dll
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.pdb
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.csprojAssemblyReference.cache
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.csproj.CoreCompileInputs.cache
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.AssemblyInfoInputs.cache
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.AssemblyInfo.cs
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.dll
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.pdb
+C:\Users\trevo\source\repos\MoodTeller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.genruntimeconfig.cache
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.exe
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.deps.json
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.runtimeconfig.json
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.runtimeconfig.dev.json
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.dll
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\bin\Debug\netcoreapp3.1\MoodTeller.pdb
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.csprojAssemblyReference.cache
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.csproj.CoreCompileInputs.cache
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.AssemblyInfoInputs.cache
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.AssemblyInfo.cs
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.dll
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.pdb
+C:\Users\trevo\Documents\Projects\Personal Projects\Mood Teller\MoodTeller\obj\Debug\netcoreapp3.1\MoodTeller.genruntimeconfig.cache
